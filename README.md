@@ -15,7 +15,7 @@ __*A scientific calculator is a type of electronic calculator, usually but not a
 * __*XML*__
 * __*Icon*__
   * __*FindIcon*__
-  * __FlatIcon*__
+  * __*FlatIcon*__
   
 # Bugs 😥
 
