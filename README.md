@@ -21,8 +21,7 @@ __*A scientific calculator is a type of electronic calculator, usually but not a
   
 ## Bugs 😥
 
-> If there any known bugs found, please let me know. My email: 👉 ruhulaminparvez007@gmail.com
-
-> Please enjoy
-and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! ☺
+> *If there any known bugs found, please let me know. My email: 👉 ruhulaminparvez007@gmail.com*
+> *Please enjoy
+and feel free to share your opinion, constructive criticism, or comments about my work. Thank you!* ☺
  
