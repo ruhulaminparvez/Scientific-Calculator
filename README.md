@@ -6,7 +6,7 @@ __*A scientific calculator is a type of electronic calculator, usually but not a
 
 # Demonstration 👇
 
-![Sci-Calc](https://user-images.githubusercontent.com/65183019/96565501-3ff91a80-12e6-11eb-85da-9717dcc43568.gif)
+![Sci-Calc](https://user-images.githubusercontent.com/65183019/96612133-38a23300-131f-11eb-9921-7a819dec05f3.gif)
 
 # Technologies 🛠🚀
 
@@ -19,4 +19,8 @@ __*A scientific calculator is a type of electronic calculator, usually but not a
   
 # Bugs 😥
 
+> If there any known bugs found, please let me know. My email: 👉 ruhulaminparvez007@gmail.com
+
+> Please enjoy
+and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
  
