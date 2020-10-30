@@ -10,10 +10,11 @@ __*A scientific calculator is a type of electronic calculator, usually but not a
   <img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/Sci-Calc.gif">
 </p>
 
-#### Pictures:
+
 <div align="center">
-<img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/img/design-3.png">
-<img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/img/design.png">
+  <h5>Pictures</h5>
+  <img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/img/design-3.png">
+  <img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/img/design.png">
 </div>
                                                                   
 ## Technologies 🛠🚀
