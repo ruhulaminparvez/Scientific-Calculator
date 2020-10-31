@@ -25,7 +25,11 @@ __*A scientific calculator is a type of electronic calculator, usually but not a
 * __*Icon*__
   * __*FindIcon*__
   * __*FlatIcon*__
-  
+
+## Installation/Deployed Version 💉
+
+ 👉 *https://github.com/Ruhul12/Scientific-Calculator/blob/main/app-release.apk*
+
 ## Bugs 😥
 
 > *If there any known bugs found, please let me know. My email: 👉 ruhulaminparvez007@gmail.com*
