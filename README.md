@@ -2,7 +2,7 @@
 __*A Scientific Calculator Built Using Android Studio*__ ☺🤞
 
 ## Introduction 🔗
-__*A scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.*__
+*A scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.*
 
 ## Demonstration 👉
 
@@ -19,16 +19,16 @@ __*A scientific calculator is a type of electronic calculator, usually but not a
                                                                   
 ## Technologies 🛠🚀
 
-* __*Android Studio*__
-* __*Java*__
-* __*XML*__
-* __*Icon*__
-  * __*FindIcon*__
-  * __*FlatIcon*__
+* *Android Studio*
+* *Java*
+* *XML*
+* *Icon*
+  * *FindIcon*
+  * *FlatIcon*
 
 ## Installation/Deployed Version 💉
 
- 👉 *https://github.com/Ruhul12/Scientific-Calculator/blob/main/app-release.apk*
+ 👉 [Scientific Calculator Apk](https://github.com/Ruhul12/Scientific-Calculator/blob/main/app-release.apk)
 
 ## Bugs 😥
 
