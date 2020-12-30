@@ -6,12 +6,12 @@ __*A Scientific Calculator Built Using Android Studio*__ ☺🤞
 
 ## Demonstration 👉
 
-<p align="center">
+<p align="left">
   <img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/Sci-Calc.gif">
 </p>
 
 
-<div align="center">
+<div align="left">
   <h4 align="left">Different Themes</h4>
   <img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/img/design-3.png">
   <img width="256" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/img/design.png">
